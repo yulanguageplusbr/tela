@@ -1,0 +1,424 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    -webkit-font-smoothing: atialiased;
+    text-size-adjust: 100%;
+    border: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    outline: 0px;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-rendering: optimizelegibility;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: rgb(245, 245, 245);
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overscroll-behavior: none
+}
+
+section + section {
+    margin-top: 0;
+}
+
+.j8y363b-K-nH, .web-LIndgr-dnyr{
+    width: 100%;
+}
+
+.span-webkit-{
+    font-size: 35px;
+}
+
+
+img {
+    vertical-align: bottom;
+  }
+
+  .h1-webkit-paaiw{
+    position: relative;
+    max-width: 50%;
+    font-size: 30px;
+    margin-bottom: 35px;
+  }
+
+
+
+  .material-symbols-outlined {
+    color: blueviolet;
+    font-size: 0;
+    display: inline-block;
+    width: 5em;
+    overflow: hidden;
+  }
+  
+  .section-oahyeh{
+    background-color: rgb(245, 245, 245);
+    flex: 1;
+    display: flex; /* Adicionar display flex para centralização */
+    flex-direction: column; /* Garantir layout de coluna */
+    justify-content: center; /* Centralizar verticalmente */
+    align-items: center; /* Centralizar horizontalmente */
+}
+
+.section-oahyeh-2{
+    background-color: rgb(240, 237, 237);
+    flex: 1;
+    display: flex; /* Adicionar display flex para centralização */
+    flex-direction: column; /* Garantir layout de coluna */
+    justify-content: center; /* Centralizar verticalmente */
+
+}
+
+.section-oahyeh-3{
+    background-color: black;
+    flex: 1;
+    display: flex; /* Adicionar display flex para centralização */
+    flex-direction: column; /* Garantir layout de coluna */
+    justify-content: center; /* Centralizar verticalmente */
+
+}
+
+
+.carrousel-wrapper-line{
+    padding: 30px 40px;
+}
+
+.carrousel-wrapper-line-3{
+    padding: 0;
+
+}
+
+.painel-content-pajb{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
+.carrouesel-block-line-vn{
+    pointer-events: none;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    width: 350px;
+    height: 290px;
+    color: black;
+    border-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    display: flex; /* Usando display flex */
+    flex-direction: column; /* Layout de coluna */
+    display: flex;
+
+}
+
+.arrousel-wrapper-line-2{
+    pointer-events: none;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    width: 350px;
+    height: 290px;
+    color: white;
+    border-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    display: flex; /* Usando display flex */
+    flex-direction: column; /* Layout de coluna */
+    display: flex;
+}
+
+
+
+
+
+
+
+.carrousel-color-line{
+        pointer-events: none;
+        border: 1px solid rgba(17, 17, 17, 0.1);
+        width: 350px;
+        height: 290px;
+        color: white;
+        border-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-bottom-left-radius: 12px;
+        display: flex; /* Usando display flex */
+        flex-direction: column; /* Layout de coluna */
+        display: flex;
+    
+}
+
+
+
+.carrousel-item-lsye{
+    padding: 24px;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+
+}
+
+.carrousel-item-lsye{
+    width: 300px;
+    height: auto;
+    overflow: hidden;
+}
+
+.padding-top-line-dj{
+    padding: 24px;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+}
+
+.h4-style-websis{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 8px 0px 0px;
+    margin-top: 8px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.p-text-oapeb{
+    font-size: 17px;
+}
+    @media (max-width: 600px){
+    .painel-content-pajb{
+        display: inline-block;
+    }
+
+    .h1-Web-I9wn, .h1-Web-Jok{
+        font-size: 2.5rem;
+    }
+
+    .h1-Web-Jok{
+        display: none;
+    }
+
+  
+
+
+
+
+
+    .span-webkit-{
+        font-size: 1.2rem;
+    }
+
+
+
+    .idhd{
+        color: white;
+        width: 50px;
+        border-radius: 1px;
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+
+
+   
+
+    .image-overlay-text {
+        align-items: center;
+        padding: 20px 20px;
+        align-items: center;
+        max-width: 100%;
+    }
+    
+}
+  
+
+@media (min-width: 601px) {
+    .h1-Web-Jok{
+        color: white;
+        font-size: 3.2rem;
+    }
+
+    .h1-Web-I9wn{
+        display: none;
+     }
+
+    .section-container {
+        display: flex;
+    }
+
+    .onH8fyf,
+    .Pidnge-LIO-jht {
+        width: 50%;
+    }
+
+    .image-overlay-text {
+        color: #252226;
+        padding: 20px 20px;
+        align-items: center;
+        max-width: 100%;
+        text-align: left;
+    }
+}
+
+
+
+.conte-fj7e, .h1-Ondy5e-3{
+    padding: 30px 40px;
+}
+
+
+.h1-Kit-dh73{
+    color: black;
+    max-width: 430px;
+    font-size: 66px;
+    text-align: left;
+    max-width: 250px;
+}
+
+.image-overlay-text{
+    padding: 20px;
+}
+
+.Web-UYS-Hhs{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.padding-1{
+    padding: 15px;
+}
+
+.padding-2{
+    padding: 20px;
+}
+
+.Webkit-ante{
+    width: 100%;
+}
+
+
+
+.Webkit-Jydb63{
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+  }
+
+  .content-style-webkit-hsh{
+    padding: 25px 35px;
+  }
+
+/* Defina a visibilidade inicialmente como oculta */
+.content-main-n7ey {
+    visibility: hidden;
+  }
+  
+  /* Torne o conteúdo visível após o carregamento completo */
+  .loaded .content-main-n7ey {
+    visibility: visible;
+  }
+
+  .slick-dots-custom {
+    display: none; /* Ocultar os números das imagens */
+  }
+
+
+  .span-widnh {
+    display: block; /* Faz com que o elemento seja um bloco e se ajuste ao tamanho do texto */
+    width: fit-content; /* Faz com que a largura do elemento seja baseada no conteúdo */
+    padding: 5px 10px; /* Adapte o espaçamento interno conforme necessário */
+    color: white;
+    background-color: blueviolet;
+    text-align: left;
+    border-radius: 9px;
+}
+
+.span-widnh-1{
+    display: block; /* Faz com que o elemento seja um bloco e se ajuste ao tamanho do texto */
+    width: fit-content; /* Faz com que a largura do elemento seja baseada no conteúdo */
+    padding: 5px 10px; /* Adapte o espaçamento interno conforme necessário */
+    color: white;
+    background-color: blueviolet;
+    text-align: left;
+    text-align: left;
+    border-radius: 9px;
+
+}
+
+
+
+/* Estilos para o carrossel */
+/* Estilos para o carrossel */
+/* Estilo para o container do carrossel */
+.carousel {
+    width: 100%; /* Defina a largura desejada para o carrossel */
+    margin: 0 auto; /* Centralize horizontalmente */
+}
+
+/* Estilo para os slides do carrossel */
+.carousel img {
+    margin-right: 0;
+    width: 100%; /* Ajuste a largura das imagens para ocupar o espaço disponível */
+    height: 600px; /* Mantenha a proporção da imagem */
+}
+
+/* Estilo para os dots de navegação */
+.slick-dots {
+    display: none; /* Remova os dots de navegação */
+}
+
+.center-elements-h4{
+    padding: 30px 40px;
+}
+
+/* Outros estilos personalizados que você desejar */
+
+
+
+    
